@@ -1,0 +1,4 @@
+#about-body, .masthead {
+   background-image: url(../img/background.jpg) !important;
+   background-repeat: repeat-y;
+}

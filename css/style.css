@@ -1,0 +1,14 @@
+.index-header {
+	background-image: url(../img/background.jpg) !important;
+	background-repeat: no-repeat;
+}
+
+.about-header {
+	background-image: url(../img/learn.jpg) !important;
+	background-repeat: no-repeat;
+}
+
+#samplepost {
+	background-image: url(../img/work.jpg) !important;
+	background-repeat: no-repeat;
+}
